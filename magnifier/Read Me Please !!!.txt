@@ -1,0 +1,5 @@
+Before you run this program 
+Please convert 'selphie.jpg' to 'selphie.bmp'
+This program only work with BMP picture format 
+
+very@gobytown.com
